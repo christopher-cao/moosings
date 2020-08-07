@@ -1,4 +1,5 @@
 baseURL = "https://example.com"
+# baseURL = "/Users/christophercao/Projects/moosings/public"
 languageCode = "en-us"
 title = "moosings"
 theme = "cactus"
