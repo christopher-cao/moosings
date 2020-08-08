@@ -444,6 +444,11 @@ body td {
   font-family: "JetBrains Mono";
   src: local("JetBrains Mono"), url("../lib/JetBrainsMono/ttf/JetBrainsMono-Regular.ttf") format("truetype");
 }
+@font-face {
+  font-style: normal;
+  font-family: "Colfax";
+  src: local("Colfax"), url("../lib/Colfax/Colfax-Regular.otf") format("truetype");
+}
 *,
 *:before,
 *:after {
@@ -465,7 +470,7 @@ body {
   font-display: swap;
   font-weight: 400;
   font-size: 14px;
-  font-family: "JetBrains Mono", monospace;
+  font-family: "Colfax";
   line-height: 1.725;
   text-rendering: geometricPrecision;
   flex: 1;
@@ -616,7 +621,7 @@ body {
 }
 #header #nav ul {
   margin: 0;
-  padding: 0;
+  padding: 5px;
   list-style-type: none;
   line-height: 15px;
 }
