@@ -1,5 +1,6 @@
 # baseURL = "https://example.com"
-baseURL = "https://christophercao1.github.io/moosings/"
+# baseURL = "https://christophercao1.github.io/moosings/"
+baseURL = "http://christopher-cao.com"
 # baseURL = "/Users/christophercao/Projects/moosings/public"
 languageCode = "en-us"
 title = "moosings"

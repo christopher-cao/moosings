@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Testing on moosings</title>
-    <link>https://christophercao1.github.io/moosings/tags/testing/</link>
+    <link>http://christopher-cao.com/tags/testing/</link>
     <description>Recent content in Testing on moosings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>chris cao</copyright>
     <lastBuildDate>Thu, 06 Aug 2020 21:33:00 -0700</lastBuildDate>
     
-	<atom:link href="https://christophercao1.github.io/moosings/tags/testing/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://christopher-cao.com/tags/testing/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My First Post</title>
-      <link>https://christophercao1.github.io/moosings/posts/my-first-post/</link>
+      <link>http://christopher-cao.com/posts/my-first-post/</link>
       <pubDate>Thu, 06 Aug 2020 21:33:00 -0700</pubDate>
       
-      <guid>https://christophercao1.github.io/moosings/posts/my-first-post/</guid>
+      <guid>http://christopher-cao.com/posts/my-first-post/</guid>
       <description>Hello </description>
     </item>
     
