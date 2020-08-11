@@ -16,7 +16,7 @@ It's the emphasis on sharing the **process**. There's so much to be learned in o
 
 
 
-It's easy to reduce a creative process down to discrete key moments and landmarks. A recipe could be reduced to 1) slice the vegetables, 2) prepare the sauce, 3) mix together and roast. It's easy to glaze over the connective tissue, the fibers that hold everything together. The reality is that creative processes are continuous machines, not just snapshots of key moments. It's not just about slicing the vegetables or trimming the artichoke, it's about the way you hold the knife, the way you organize the work bench, how the ingredients are stored. There are so many details to be unveiled just by attentively watching someone operate. You have the main landmark – the skill, technique, or step – but you also have the adjacent structures behind the scenes that support it. They're the infrastructure, not the sexy main attraction. They're the plumbing and the electrical lining and the insulation, not the architectural masterpiece. I recently read an interview with an accomplished animator [1] who was inspired by his mentor's attention to crafstmanship, even the way he held his pencil. It's these kinds of mundane yet essential things that are only revealed when you have that opportunity to watch someone work with the garage door up.
+It's easy to reduce a creative process down to discrete key moments and landmarks. A recipe could be reduced to 1) slice the vegetables, 2) prepare the sauce, 3) mix together and roast. It's easy to glaze over the connective tissue, the fibers that hold everything together. The reality is that creative processes are continuous machines, not just snapshots of key moments. It's not just about slicing the vegetables or trimming the artichoke, it's about the way you hold the knife, the way you organize the work bench, how the ingredients are stored. There are so many details to be unveiled just by attentively watching someone operate. You have the main landmark – the skill, technique, or step – but you also have the adjacent structures behind the scenes that support it. They're the infrastructure, not the sexy main attraction. They're the plumbing and the electrical lining and the insulation, not the architectural masterpiece. I recently read an interview with an accomplished animator [1] who was inspired by his mentor's attention to craftsmanship, even the way he held his pencil. It's these kinds of mundane yet essential things that are only revealed when you have that opportunity to watch someone work with the garage door up.
 
 
 
@@ -24,7 +24,7 @@ The difference between watching someone in the process vs. listening to them tal
 
 
 
-Of course, that's not to say that if we want to learn how to roast an artichoke, we should watch a 2 hour livestream of someone demonstrating it step by step. Or that we need to stress the details about how we set up our counter or hold the knife. But what I am emphaiszing is that there's value to be gained from learning from both condensed sources and the raw material. I kind of imagine different learning techniques to fall somewhere on this pyramid of "effort needed," almost like degrees of refinement. The lower you go, the more raw the knowledge source.
+Of course, that's not to say that if we want to learn how to roast an artichoke, we should watch a 2 hour livestream of someone demonstrating it step by step. Or that we need to stress the details about how we set up our counter or hold the knife. But what I am emphasizing is that there's value to be gained from learning from both condensed sources and the raw material. I kind of imagine different learning techniques to fall somewhere on this pyramid of "effort needed," almost like degrees of refinement. The lower you go, the more raw the knowledge source.
 
 ![knowledge_refinement](/images/knowledge_refinement_pyramid.png)
 
@@ -40,7 +40,7 @@ Some other examples that came to mind when thinking about this concept are:
 - [Jazz piano streams](https://www.youtube.com/playlist?list=PLbwUoBeqEqhw9KBZZen8ZnI7bnCCS_imY)
 - [Walking through a math puzzle](https://www.youtube.com/watch?v=as7Gkm7Y7h4)
 
-
+---
 
 [1] [Interview with Taichi Ishidate](https://www.animenewsnetwork.com/feature/2016-08-31/interview-kyoto-animation-taichi-ishidate/.102999)
 
