@@ -1,5 +1,5 @@
 ---
-title: "Working with the Garage Door Up"
+title: "The garage door"
 date: 2020-08-10T22:39:15-07:00
 draft: false
 ---
