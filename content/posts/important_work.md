@@ -1,6 +1,6 @@
 ---
 title: "On important work"
-date: 2020-08-06T22:16:31-07:00
+date: 2020-07-09T22:16:31-07:00
 ---
 These past few months have me in a bit of a slump. More than anything, I get this overwhelming sense of *smallness*. And in my motivation slump, I've been thinking about what makes work worth doing. What makes work "important"? How should one approach doing important work?
 
