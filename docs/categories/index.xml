@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on moosings</title>
-    <link>http://christopher-cao.com/categories/</link>
+    <link>https://christopher-cao.com/categories/</link>
     <description>Recent content in Categories on moosings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>chris cao</copyright>
     
-	<atom:link href="http://christopher-cao.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://christopher-cao.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
