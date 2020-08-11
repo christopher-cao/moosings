@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>chris cao</copyright>
-    <lastBuildDate>Sat, 08 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2020 22:39:15 -0700</lastBuildDate>
     
 	<atom:link href="http://christopher-cao.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Working with the Garage Door Up</title>
+      <link>http://christopher-cao.com/posts/garage-door/</link>
+      <pubDate>Mon, 10 Aug 2020 22:39:15 -0700</pubDate>
+      
+      <guid>http://christopher-cao.com/posts/garage-door/</guid>
+      <description>I recently came across a concept called &amp;lsquo;working with the garage door up&amp;rsquo; in Andy Matuschak&amp;rsquo;s working notes. It feels pretty familiar, this idea of creating accountability through social pressure like with Instagram fitness challenges and 100 days of code.
+Something I particularly liked about Andy&amp;rsquo;s take on it though is his emphasis on how it&amp;rsquo;s a form of creative communication. In his words,
+ It&amp;rsquo;s giving a lecture about the problems you&amp;rsquo;re pondering in the shower.</description>
+    </item>
     
     <item>
       <title>About</title>
@@ -18,7 +29,7 @@
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>http://christopher-cao.com/about/</guid>
-      <description>Digital workspace to share incomplete and rough thoughts.</description>
+      <description>Beware: run-on sentences may appear.</description>
     </item>
     
     <item>
