@@ -64,6 +64,7 @@ I'm also a big proponent of used books acting as a mechanism of getting us to ex
 - Play it Again
 - At the Existentialist Cafe
 - Godel, Escher, Bach
+- Why Greatness Cannot be Planned: The Myth of the Objective
 
 ## Reference Works
 - Naive Set Theory
