@@ -35,6 +35,11 @@ name = "About"
 url = "/about"
 weight = 4
 
+[[menu.main]]
+name = "Books"
+url = "/books"
+weight = 5
+
 [markup]
   [markup.tableOfContents]
     endLevel = 4
@@ -42,7 +47,6 @@ weight = 4
     startLevel = 2
 
 [params]
-
   colortheme = "light" # dark, light, white, or classic
   rss = true # generate rss feed. default value is false
   googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
@@ -52,7 +56,7 @@ weight = 4
   mainSection = "posts" # your main section
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
-  tagsOverview = true # show tags overview by default.
+  tagsOverview = false # show tags overview by default.
   showProjectsList = true # show projects list by default (if projects data file exists).
   projectsUrl = "https://github.com/gohugoio" # title link for projects list
 
@@ -68,6 +72,7 @@ weight = 4
 
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
+  # TODO: Would like to move these from the home page and to the about page
   [[params.social]]
     name = "twitter"
     link = "https://twitter.com/chris_cao1"
