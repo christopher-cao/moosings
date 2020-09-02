@@ -24,7 +24,7 @@ I'm also a big proponent of used books acting as a mechanism of getting us to ex
   - Oathbringer
 - Battle Royale
 - Severance
-- The Three Body Problem Trilogy:
+- Remembrance of Earth's Past Trilogy
   - The Three Body Problem
   - The Dark Forest
   - Death's End
