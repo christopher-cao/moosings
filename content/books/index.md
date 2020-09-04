@@ -30,13 +30,13 @@ I'm also a big proponent of used books acting as a mechanism of getting us to ex
   - [Death's End](https://www.amazon.com/Deaths-End-Remembrance-Earths-Past/dp/0765386631/ref=pd_bxgy_img_2/132-7788688-1435025?_encoding=UTF8&pd_rd_i=0765386631&pd_rd_r=b9dd9f81-e295-432f-a071-da73058cea48&pd_rd_w=gMA6w&pd_rd_wg=W3jVu&pf_rd_p=ce6c479b-ef53-49a6-845b-bbbf35c28dd3&pf_rd_r=QHD0NMME8FC0XVRZZCXH&psc=1&refRID=QHD0NMME8FC0XVRZZCXH)
 
 # Anthologies
-- [Exhalation]() (Ted Chiang)
-- The Paper Menagerie
-- Cathedral (Carver)
-- Strange Light (Derrick Brown)
-- Out of My Later Years (Einstein)
-- [Consolations]()
-- [Cool Gray City of Love]()
+- [Exhalation](https://www.amazon.com/Exhalation-Ted-Chiang/dp/1101972084/ref=sr_1_1?dchild=1&keywords=exhalation&qid=1599259599&s=books&sr=1-1)
+- [The Paper Menagerie](https://www.amazon.com/Paper-Menagerie-Other-Stories/dp/148142436X/ref=sr_1_1?dchild=1&keywords=paper+menagerie&qid=1599259628&s=books&sr=1-1)
+- [Cathedral](https://www.amazon.com/Cathedral-Raymond-Carver/dp/0679723692/ref=sr_1_1?dchild=1&keywords=cathedral+carver&qid=1599259641&s=books&sr=1-1)
+- [Strange Light](https://www.amazon.com/Strange-Light-Derrick-Brown/dp/1935904655/ref=sr_1_1?dchild=1&keywords=derrick+brown+strange+light&qid=1599259659&s=books&sr=1-1)
+- [Out of My Later Years](https://www.amazon.com/Albert-Einstein-Later-Years-Through-dp-0785820450/dp/0785820450/ref=mt_other?_encoding=UTF8&me=&qid=1599259677)
+- [Consolations](https://www.amazon.com/Consolations-Nourishment-Underlying-Meaning-Everyday/dp/1932887342/ref=sr_1_1?dchild=1&keywords=consolations&qid=1599259703&s=books&sr=1-1)
+- [Cool Gray City of Love](https://www.amazon.com/Cool-Gray-City-Love-Francisco/dp/1620401266/ref=sr_1_1?dchild=1&keywords=cool+gray+city+of+love&qid=1599259714&s=books&sr=1-1)
 
 # Nonfiction
 - [Infinity and the Mind]()
