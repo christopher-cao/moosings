@@ -1,7 +1,5 @@
 ---
 title: Books
-date: 2020-09-02
-draft: false
 ---
 ::TODO: get the TOC to show on the side bar::
 

@@ -7,20 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>chris cao</copyright>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Apr 2021 18:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://christopher-cao.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Books</title>
-      <link>https://christopher-cao.com/books/</link>
-      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <title>the optimism of cybernetics</title>
+      <link>https://christopher-cao.com/posts/optimism-of-cybernetics/</link>
+      <pubDate>Thu, 08 Apr 2021 18:00:00 -0700</pubDate>
       
-      <guid>https://christopher-cao.com/books/</guid>
-      <description>::TODO: get the TOC to show on the side bar::
-I&amp;rsquo;m a huge believer in the antilibrary (but maybe I&amp;rsquo;m just a book hoarder). I&amp;rsquo;m also a big proponent of used books acting as a mechanism of getting us to explore books we wouldn&amp;rsquo;t pick up on our own.
-Fiction  The House of the Spirits Picture Us in the Light Thus Spoke Zarathustra On Earth We&amp;rsquo;re Briefly Gorgeous Pachinko The Sympathizer The Sorrow of War At Dusk A Little Life The Stormlight Series  Way of Kings Words of Radiance Oathbringer   Battle Royale Severance Remembrance of Earth&amp;rsquo;s Past Trilogy  The Three Body Problem The Dark Forest Death&amp;rsquo;s End    Anthologies  Exhalation The Paper Menagerie Cathedral Strange Light Out of My Later Years Consolations Cool Gray City of Love  Nonfiction  Infinity and the Mind Code: The Hidden Language of Computer Hardware and Software How to Solve It Get Together Thinking in Systems A Brief History of Time Orientalism Republic A Theory of Justice The Complete Essays of Michel de Montaigne Crucial Conversations The Art of Doing Science and Engineering A Work in Progress: A Journal Principles The Unfolding of Language Einstein: His Life and Universe The Last Lecture Deep Work Educated Not All Dead White Men The Art of Cruelty Disturbing the Universe Play it Again At the Existentialist Cafe Godel, Escher, Bach Why Greatness Cannot be Planned: The Myth of the Objective  Reference Works  Naive Set Theory A First Course in Graph Theory Category Theory The Algorithmic Foundations of Differential Privacy Operating Systems: Three Easy Pieces Designing Data Intensive Applications Cognitive Therapy Techniques Machine Learning (on loan) Introduction to Data Mining (on loan) Artificial Intelligence: A Modern Approach Introduction to Algorithms Clean Code Elements of Programming Interviews Visual Explanations Salt, Fat, Acid, Heat  Other  Everyone&amp;rsquo;s a aliebn when ur a aliebn too Rucksack: The Winter Issue Rucksack: The City Issue Modern Architect Kuth/Ranieri Architects Provisional - Emerging Modes of Architectural Practice USA Celebrating Excellence in Wood Structure Library Design Terrace Design Sourcebook of Scandinavian Furniture CURIOSITY: Wants to work with whoever picks up this book  </description>
+      <guid>https://christopher-cao.com/posts/optimism-of-cybernetics/</guid>
+      <description>Hello friends! Going to try rebooting my Moosings now that Hot Girl Summer is officially on the way!
+I&amp;rsquo;ve been reading The Dream Machine, an exposé on the history of computation with a focus on the work of J. C. R. Licklider, a psychologist whose visionary dream of human-computer symbiosis led to the development of the personal computer. Something I love about the book is that it not only focuses on Licklider&amp;rsquo;s extensive contributions to computing and the development of the Internet, but also on the work of his contemporaries were working and how they influenced his thinking.</description>
     </item>
     
     <item>
@@ -62,6 +61,17 @@ Thank you for agreeing to be my beta testers. This isn’t gonna be anything spe
       
       <guid>https://christopher-cao.com/about/</guid>
       <description>Beware: run-on sentences may appear.</description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>https://christopher-cao.com/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://christopher-cao.com/books/</guid>
+      <description>::TODO: get the TOC to show on the side bar::
+I&amp;rsquo;m a huge believer in the antilibrary (but maybe I&amp;rsquo;m just a book hoarder). I&amp;rsquo;m also a big proponent of used books acting as a mechanism of getting us to explore books we wouldn&amp;rsquo;t pick up on our own.
+Fiction  The House of the Spirits Picture Us in the Light Thus Spoke Zarathustra On Earth We&amp;rsquo;re Briefly Gorgeous Pachinko The Sympathizer The Sorrow of War At Dusk A Little Life The Stormlight Series  Way of Kings Words of Radiance Oathbringer   Battle Royale Severance Remembrance of Earth&amp;rsquo;s Past Trilogy  The Three Body Problem The Dark Forest Death&amp;rsquo;s End    Anthologies  Exhalation The Paper Menagerie Cathedral Strange Light Out of My Later Years Consolations Cool Gray City of Love  Nonfiction  Infinity and the Mind Code: The Hidden Language of Computer Hardware and Software How to Solve It Get Together Thinking in Systems A Brief History of Time Orientalism Republic A Theory of Justice The Complete Essays of Michel de Montaigne Crucial Conversations The Art of Doing Science and Engineering A Work in Progress: A Journal Principles The Unfolding of Language Einstein: His Life and Universe The Last Lecture Deep Work Educated Not All Dead White Men The Art of Cruelty Disturbing the Universe Play it Again At the Existentialist Cafe Godel, Escher, Bach Why Greatness Cannot be Planned: The Myth of the Objective  Reference Works  Naive Set Theory A First Course in Graph Theory Category Theory The Algorithmic Foundations of Differential Privacy Operating Systems: Three Easy Pieces Designing Data Intensive Applications Cognitive Therapy Techniques Machine Learning (on loan) Introduction to Data Mining (on loan) Artificial Intelligence: A Modern Approach Introduction to Algorithms Clean Code Elements of Programming Interviews Visual Explanations Salt, Fat, Acid, Heat  Other  Everyone&amp;rsquo;s a aliebn when ur a aliebn too Rucksack: The Winter Issue Rucksack: The City Issue Modern Architect Kuth/Ranieri Architects Provisional - Emerging Modes of Architectural Practice USA Celebrating Excellence in Wood Structure Library Design Terrace Design Sourcebook of Scandinavian Furniture CURIOSITY: Wants to work with whoever picks up this book  </description>
     </item>
     
   </channel>
